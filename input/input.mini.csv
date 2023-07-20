@@ -1,0 +1,5 @@
+sample,mag,fna
+17,SPAdes-MetaBAT2Refined-17.121,/mnt/beegfs/home/mrojas/DiGenomaLab/Systemix/analysis/mag-adg-spades/Prokka/SPAdes/SPAdes-MetaBAT2Refined-17.121/SPAdes-MetaBAT2Refined-17.121.fna
+S7_350,SPAdes-MaxBin2Refined-S7_350.104_sub,/mnt/beegfs/home/mrojas/DiGenomaLab/Systemix/analysis/mag-adg-spades/Prokka/SPAdes/SPAdes-MaxBin2Refined-S7_350.104_sub/SPAdes-MaxBin2Refined-S7_350.104_sub.fna
+S7_350,SPAdes-MetaBAT2Refined-S7_350.32,/mnt/beegfs/home/mrojas/DiGenomaLab/Systemix/analysis/mag-adg-spades/Prokka/SPAdes/SPAdes-MetaBAT2Refined-S7_350.32/SPAdes-MetaBAT2Refined-S7_350.32.fna
+S15_350,SPAdes-MetaBAT2Refined-S15_350.60,/mnt/beegfs/home/mrojas/DiGenomaLab/Systemix/analysis/mag-adg-spades/Prokka/SPAdes/SPAdes-MetaBAT2Refined-S15_350.60/SPAdes-MetaBAT2Refined-S15_350.60.fna
