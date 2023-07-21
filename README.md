@@ -31,7 +31,7 @@ Optional arguments:
 
 ## Nextflow execution
 
-Examples ([DiGenomaLab](https://digenoma-lab.cl/facilities/cluster/) environment):
+Examples for metagenomic samples ([DiGenomaLab](https://digenoma-lab.cl/facilities/cluster/) environment):
 
 1. Run the workflow using a ```small dataset``` in the local node (```singularity```).
 ```
