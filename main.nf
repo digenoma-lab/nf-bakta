@@ -26,7 +26,7 @@ def help_msg() {
 process RUNBAKTA {
 	// Each sample with a custom label (i.e: S15_350-bakta}
 	tag "${sample}-bakta"
-	publishDir "${params.outdir}/bakta/${sample}/${mags}", mode: "copy"
+	publishDir "${params.outdir}/bakta/", mode: "copy"
 	
 	// Load container
 	conda (params.enable_conda ? "bioconda::bakta=1.8.1" : null)
